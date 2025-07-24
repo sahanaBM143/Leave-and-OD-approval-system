@@ -15,7 +15,7 @@ A smart internal approval system for Leave, OD, and Comp-Off using Google Sheets
 ## 🖼️ Screenshots
 
 ### 1. Leave Form View
-![Leave Form](screenshots/image1.png)
+![Leave Form]([screenshots/image1.png](https://github.com/sahanaBM143/Leave-and-OD-approval-system/blob/main/image1.png?raw=true))
 
 ### 2. OD Form View
 ![OD Form](screenshots/image2.png)
